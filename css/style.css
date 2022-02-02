@@ -1,0 +1,44 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif !important;
+}
+.carousel-height{
+  min-height: 10vh;
+  max-height: 90vh;
+}
+
+.niyamah-btn{
+  background-color: aliceblue;
+  color: #3F87F5;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 5px;
+}
+.packages-height{
+  min-height: 600px;
+}
+
+.special-offer-package-body{
+height: 90vh;
+}
+.special-offer-package{
+border-radius: 15px !important;
+box-shadow: 0px 8px 18px rgba(13, 202, 240, 0.633);
+}
+.common-btn{
+  background: #f496d23a;
+  color: #3F87F5;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 5px;
+}
+.border-hover:hover{
+  box-shadow: 2px 3px 10px gray;
+  border-radius: 8px;
+}
